@@ -1,0 +1,15 @@
+.Floatingimoji{
+    display: flex;
+    justify-content: space-around;
+    background: #ffffff;
+    box-shadow: var(--boxshadow);
+    border-radius: 17px;
+    align-items: center;
+}
+.Floatingimoji>img{
+    transform: scale(0.4);
+}
+.Floatingimoji>span{
+    font-family: sans-serif;
+    font-size: 16px;
+}
