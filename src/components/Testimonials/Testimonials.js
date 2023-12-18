@@ -25,13 +25,13 @@ const Testimonials = () => {
         {
             img: profilePic3,
             review:
-                "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam aut repudiandae, mollitia fugiat suscipit ipsum maxime non adipisci quaerat."
+                "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam aut repudiandae."
         },
 
         {
             img: profilePic4,
             review:
-                "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam aut repudiandae, mollitia fugiat suscipit ipsum maxime non adipisci quaerat, quisquam quos."
+                "Lorem ipsum dolor sit, amet consectetur adipisicing elit.  quisquam quos."
         }
     ];
 
