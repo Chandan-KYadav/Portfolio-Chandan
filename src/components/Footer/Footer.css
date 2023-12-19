@@ -25,4 +25,7 @@
     .footer-content{
         transform: scale(.5);
     }
+    .footer{
+        margin-top: 5rem;
+    }
 }
